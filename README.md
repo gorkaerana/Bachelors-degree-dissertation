@@ -1,6 +1,8 @@
 # Bachelors-degree-dissertation
 This repository contains the dissertation I made to obtain my bachelors degree in Mathematics: 'Implementation of the QR algorithm for efficiently computing matrix eigenvalues and eigenvectors'.
 
+'Dissertation.pdf' is the work presented in UPV/EHU as my bachelors degree dissertation.
+
 The folder 'Power and inverse power methods' contains two simple -yet not definitive nor real-life- implementations of both methods.
 
 The folder 'Explicitly shifted QR algorithm' contains all the programs that shape the routine to reduce any given matrix to its complex Schur form -the function 'complexschur' does that. ('righteigvec' returns the eigenvectors of the Schur form T.) The algorithms have been implemented following the ideas G. W. Stewart develops in his book 'Matrix Algorithms Volume II: Eigensystems'.

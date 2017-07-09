@@ -1,7 +1,7 @@
 # Bachelors-degree-dissertation
 This repository contains the dissertation I made to obtain my bachelors degree in Mathematics: 'Implementation of the QR algorithm for efficiently computing matrix eigenvalues and eigenvectors'.
 
-'Dissertation.pdf' is the work presented in UPV/EHU as my bachelors degree dissertation.
+'Dissertation.pdf' is the work I presented in UPV/EHU as my bachelors degree dissertation.
 
 The folder 'Power and inverse power methods' contains two simple -yet not definitive nor real-life- implementations of both methods.
 
